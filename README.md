@@ -32,14 +32,5 @@ Hello! I'm a third-year BTech Computer Science and Engineering student specializ
 
 
 
----
-
-##  GitHub Stats
-
-![](https://pixel-profile.vercel.app/api/github-stats?username=goldibabu14&theme=crt)
-<p align="center">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=goldibabu14&theme=crt" alt="GitHub Stats" />
-</p>
-
 
 ---
