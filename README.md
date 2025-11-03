@@ -1,6 +1,6 @@
-# Goldi Babu | BTech CSE - Cybersecurity Enthusiast
+# Goldi Babu 
 
-Hello! I'm Goldi, a third-year BTech Computer Science and Engineering student specializing in Cybersecurity. Passionate about exploring, learning, and contributing to the cybersecurity community through hands-on projects and research.
+Hello! I'm a third-year BTech Computer Science and Engineering student specializing in Cybersecurity. Passionate about exploring, learning, and contributing to the cybersecurity community through hands-on projects and research.
 
 ![Internet GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNngwb3R4b3N2d3A4cjVkMDk5eXFoZzRyeDJuYWlqeGU3ejB6ZXNzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9b7RA8UZj2Quad47m0/giphy.gif)
 
@@ -8,6 +8,7 @@ Hello! I'm Goldi, a third-year BTech Computer Science and Engineering student sp
 ---
 
 ## Connect with me
+
 <p align="left">
 <a href="https://linkedin.com/in/goldibabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="goldibabu" height="30" width="40" /></a>
 <a href="https://instagram.com/goldi_babu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goldi_babu" height="30" width="40" /></a>
@@ -21,7 +22,8 @@ Hello! I'm Goldi, a third-year BTech Computer Science and Engineering student sp
 <img src="https://skillicons.dev/icons?i=python,c,java,js,bash,kali,vscode,eclipse,docker,jenkins,git,github,postgresqlmongodb" />
 
 
-#### Cybersecurity & Networking Tools  
+#### Cybersecurity & Networking Tools 
+
 ![Wireshark](https://img.shields.io/badge/Wireshark-00518F?style=for-the-badge&logo=wireshark&logoColor=white)  
 ![Nmap](https://img.shields.io/badge/Nmap-FBAA1C?style=for-the-badge&logo=nmap&logoColor=black)  
 ![Burp Suite](https://img.shields.io/badge/BurpSuite-93002F?style=for-the-badge&logo=burpsuite&logoColor=white)  
