@@ -2,7 +2,6 @@
 
 Hello! I'm a third-year BTech Computer Science and Engineering student specializing in Cybersecurity. Passionate about exploring, learning, and contributing to the cybersecurity community through hands-on projects and research.
 
-![Internet GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNngwb3R4b3N2d3A4cjVkMDk5eXFoZzRyeDJuYWlqeGU3ejB6ZXNzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9b7RA8UZj2Quad47m0/giphy.gif)
 
 
 ---
@@ -38,5 +37,9 @@ Hello! I'm a third-year BTech Computer Science and Engineering student specializ
 ##  GitHub Stats
 
 ![](https://pixel-profile.vercel.app/api/github-stats?username=goldibabu14&theme=crt)
+<p align="center">
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=goldibabu14&theme=crt" alt="GitHub Stats" />
+</p>
+
 
 ---
