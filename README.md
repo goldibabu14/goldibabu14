@@ -4,14 +4,6 @@ Hello! I'm a third-year BTech Computer Science and Engineering student specializ
 
 
 
----
-
-## Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/goldibabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="goldibabu" height="30" width="40" /></a>
-<a href="https://instagram.com/goldi_babu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goldi_babu" height="30" width="40" /></a>
-</p>
 
 
 ---
