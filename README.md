@@ -5,7 +5,6 @@ Hello! I'm a third-year BTech Computer Science and Engineering student specializ
 
 
 
-
 ---
 
 ## Tech Stack & Tools
